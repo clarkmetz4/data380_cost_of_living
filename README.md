@@ -1,0 +1,1 @@
+This project looks at the cost of living in the United States from state to state. There are 15 different variables and in this project I look into the correlation between each one and how it varies from state to state and region to region. 
